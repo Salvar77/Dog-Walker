@@ -1,0 +1,59 @@
+{
+  "heading": "Staking",
+  "howItWorks": "Jak to działa",
+  "balanceLabel": "Saldo",
+  "stakeableLabel": "Do stakowania",
+  "purchaseBalanceCTA": "Kup saldo",
+  "percentOfPoolLabel": "% puli",
+  "totalStakedLabel": "Razem stakowane",
+  "withdrawTokensCTA": "Odblokuj token",
+  "estimatedRewardsLabel": "Szacowane nagrody",
+  "rewardsRateDynamic": "Stopa nagród jest dynamiczna",
+  "monthlyNote": "Miesięcznie = ",
+  "dailyNote": "Dzienne = ",
+  "currentRewardsLabel": "Pula nagród",
+  "totalRewardsLabel": "Łączne nagrody",
+  "claimRewardsCTA": "Odbierz nagrody",
+  "totalSupplyLabel": "Całkowita podaż",
+  "balanceAmount": "0 DTW",
+  "stakeableAmount": "0 DTW",
+  "percentOfPoolAmount": "0 DTW",
+  "totalStakedAmount": "0 DTW",
+  "estimatedRewardsRate": "122% p/a",
+  "currentRewardsAmount": "4377.4",
+  "perEthBlockLabel": "per ETH Block",
+  "totalRewardsAmount": "0 DTW",
+  "reward": "Nagrody",
+  "instructions": {
+    "prev": "Poprzedni",
+    "next": "Następny",
+    "close": "Zamknij",
+    "count": 6,
+    "introTitle": "Jak stakować tokeny $DWT na DogWalker?",
+    "intro": "Stakowanie Twoich tokenów $DWT to doskonały sposób na pasywne zdobywanie nagród, wspierając jednocześnie ekosystem DogWalker. Skorzystaj z tego prostego przewodnika krok po kroku, aby rozpocząć:",
+    "1": {
+      "title": "Krok 1: Podłącz portfel",
+      "content": "<ul><li>Otwórz stronę <a href=\"https://dog-walker-app.netlify.app\" target=\"_blank\">dog-walker-app.netlify.app</a></li><li>Kliknij przycisk <strong>„Connect Wallet”</strong> w górnym menu.</li><li>Wybierz swój portfel (MetaMask, Trust Wallet itp.) połączony z siecią <strong>BNB Smart Chain (BSC)</strong>.</li></ul><p>Upewnij się, że masz w portfelu tokeny $DWT oraz niewielką ilość <strong>BNB</strong> na opłaty gas.</p>"
+    },
+    "2": {
+      "title": "Krok 2: Sprawdź saldo",
+      "content": "<p>Po podłączeniu portfela zobaczysz:</p><ul><li><strong>Saldo:</strong> dostępne tokeny $DWT w portfelu</li><li><strong>Do stakingu:</strong> tokeny gotowe do stakowania</li><li><strong>Cała pula nagród:</strong> 20 000 000 DWT dostępnych jako nagrody</li><li><strong>Szacowane nagrody:</strong> 15 % rocznie (1,25 % miesięcznie lub ~0,041 % dziennie)</li></ul>"
+    },
+    "3": {
+      "title": "Krok 3: Zatwierdź token",
+      "content": "<ul><li>Kliknij przycisk <strong>„Unlock Token”</strong>.</li><li>Potwierdź transakcję w portfelu, aby zatwierdzić $DWT do stakowania.</li></ul><p>To jednorazowy krok, pozwalający kontraktowi stakingowemu na interakcję z Twoimi tokenami.</p>"
+    },
+    "4": {
+      "title": "Krok 4: Stakuj swoje tokeny",
+      "content": "<ul><li>Wprowadź liczbę tokenów $DWT, które chcesz stakować.</li><li>Kliknij przycisk <strong>„Stake”</strong> i potwierdź transakcję w portfelu.</li><li>Po potwierdzeniu, kwota stakowanych tokenów pojawi się w polu <strong>„Staked Amount”</strong>, a Twój udział w puli zostanie zaktualizowany.</li></ul>"
+    },
+    "5": {
+      "title": "Krok 5: Odbierz nagrody",
+      "content": "<ul><li>Nagrody kumulują się codziennie i zależą od Twojego udziału w puli.</li><li>Kliknij <strong>„Claim Rewards”</strong>, aby odebrać zarobione tokeny $DWT bezpośrednio do portfela.</li></ul><p>Możesz odbierać nagrody w dowolnym momencie. Pamiętaj, aby mieć trochę BNB na opłaty gas.</p>"
+    },
+    "6": {
+      "title": "Bonus Info",
+      "content": "<ul><li><strong>Total Supply</strong>: zobacz bieżący i prognozowany wzrost podaży tokenów na wykresie „Total Supply”.</li><li><strong>APY</strong>: roczna stopa nagród jest dynamiczna i zależy od łącznej wartości zstakowanych tokenów.</li></ul>"
+    }
+  }
+}

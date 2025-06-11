@@ -1,0 +1,24 @@
+{
+  "heading": "Our Team",
+  "becomeMember": "Become a Member",
+  "items": [
+    {
+      "title": "Technology Experts",
+      "description": "<p>Our engineers and developers are <strong>specialists</strong> with years of experience in blockchain technology and software development. Their skills include:</p><ul><li>Building <strong>secure</strong> and <strong>scalable</strong> systems</li><li>Designing robust smart contracts</li><li>Optimizing performance for high loads</li></ul>"
+    },
+    {
+      "title": "Market Strategists",
+      "description": "<p>Our marketing team knows the market inside out and creates campaigns that truly resonate. Highlights of their approach:</p><ul><li><strong>Data-driven</strong> audience segmentation</li><li>Innovative <strong>multi-channel</strong> strategies</li><li>Engaging <strong>community-building</strong> events</li></ul>"
+    },
+    {
+      "title": "Financial Experts",
+      "description": "<p>Our finance team brings:</p><ul><li><strong>Investment management</strong> expertise</li><li>Proven track record in <strong>fundraising</strong></li><li>Ability to <strong>forecast</strong> market trends</li></ul><p>Thanks to their analytical approach, we allocate resources with precision.</p>"
+    },
+    {
+      "title": "Legal Advisors",
+      "description": "<p>We partner with top legal advisors who ensure compliance in:</p><ul><li>Blockchain and cryptocurrency regulations</li><li>Data protection and privacy laws</li><li>Intellectual property agreements</li></ul><p>Their guidance is <strong>crucial</strong> for our project’s security and trustworthiness.</p>"
+    }
+  ],
+  "whyUsTitle": "Why Us?",
+  "whyUsText": "<p><strong>Our strength</strong> lies in the <strong>diversity</strong> of skills and experiences we bring together:</p><ul><li>Cross-functional collaboration</li><li>Innovative mindset</li><li>Relentless passion</li></ul><p>We are determined to introduce solutions that will <strong>transform</strong> our industry and deliver real value to our users.</p>"
+}

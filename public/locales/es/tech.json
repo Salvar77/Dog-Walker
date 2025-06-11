@@ -1,0 +1,38 @@
+{
+  "title": "Tecnología blockchain",
+  "learnMore": "Más información",
+  "blockchainLabel": "BLOCKCHAIN",
+  "blockchainHeading": "¿Por qué la tecnología blockchain en la app DogWalker?",
+  "blockchainSubheading": "🔗 <strong>Blockchain como base de confianza, automatización e independencia</strong>",
+  "blockchainDescription": "<p><strong>DogWalkerToken (DWT)</strong> es una plataforma que va más allá de los modelos clásicos de aplicaciones de servicios.</p><p>Nuestra misión es crear un ecosistema en el que la confianza no requiera intermediarios, y cada transacción, evaluación o interacción en la aplicación sea transparente, automática y resistente a la manipulación.</p><p>Las aplicaciones centralizadas tradicionales dependen de las decisiones del operador, de una base de datos cerrada y de limitaciones de infraestructura. Blockchain elimina estas barreras, ofreciendo a los usuarios:</p><ul><li><strong>control total sobre los datos y la reputación</strong></li><li><strong>seguridad de los fondos</strong></li><li><strong>términos de cooperación justos e inmodificables</strong></li></ul>",
+  "bscLabel": "MÁS SOBRE NUESTRA TECNOLOGÍA",
+  "bscHeading": "¿Por qué elegimos Binance Smart Chain (BSC)?",
+  "bscDescription": "<strong>Binance Smart Chain (BSC) es una de las redes EVM (Ethereum Virtual Machine) más maduras y populares</strong>, lo que la convierte en una opción ideal para aplicaciones de adopción masiva como DogWalkerToken.",
+  "reasonsHeading": "Razones clave para elegir BSC:",
+  "reasons": [
+    {
+      "title": "Bajas comisiones de transacción",
+      "description": "Las microtransacciones (p.ej. 0,05 USD) son posibles, lo cual es esencial para aplicaciones de alta frecuencia de operaciones"
+    },
+    {
+      "title": "Velocidad de operación (3–5 seg/bloque)",
+      "description": "Liquidación instantánea de servicios y staking, sin demoras"
+    },
+    {
+      "title": "Compatible con EVM",
+      "description": "Fácil escritura y auditoría de contratos inteligentes en Solidity"
+    },
+    {
+      "title": "Gran comunidad y liquidez",
+      "description": "DWT puede cotizarse fácilmente en DEXs (p.ej. PancakeSwap), y es compatible con carteras Web3 y herramientas DeFi"
+    },
+    {
+      "title": "Seguridad",
+      "description": "Actualizaciones constantes, validación activa, apoyo de Binance Labs"
+    },
+    {
+      "title": "Centralización equilibrada",
+      "description": "Permite un desarrollo más rápido manteniendo un nivel adecuado de descentralización para aplicaciones de uso diario"
+    }
+  ]
+}

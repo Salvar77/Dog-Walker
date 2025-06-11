@@ -1,0 +1,62 @@
+{
+  "heading": "Token Pre-Sale",
+  "howToBuy": "How to buy?",
+  "launchPriceLabel": "Launch Price",
+  "price": "1 DWT =",
+  "listingPriceLabel": "Listning Price",
+  "listingPrice": "1$",
+  "soldLabel": "Sold:",
+  "soldAmount": "250 DWT",
+  "totalLabel": "Total DWT:",
+  "totalAmount": "10 000",
+  "days": "Days",
+  "hours": "Hours",
+  "mins": "Mins",
+  "secs": "Secs",
+  "until": "Until pre-sale launch",
+  "purchaseCTA": "Purchase DogWalker Token",
+  "poweredPrefix": "Powered & Supported by",
+  "currentRound": "Current Round",
+  "instructions": {
+    "prev": "Previous",
+    "next": "Next",
+    "close": "Close",
+    "count": 9,
+    "1": {
+      "title": "How to Buy $ITH Tokens on InTheHouse.io?",
+      "content": "Buying $ITH tokens on the InTheHouse.io platform is quick and simple. Just follow these steps to become a token holder and support our vision for modern Web3-based home services."
+    },
+    "2": {
+      "title": "Step 1: Connect Your Wallet",
+      "content": "<p>On the InTheHouse.io homepage, click the “Connect Wallet” button in the top-right corner. Choose a wallet compatible with the BNB Smart Chain network, such as MetaMask, Trust Wallet, or another supported wallet. Follow the instructions displayed in your wallet app to connect it to the platform.</p><p><strong>Note:</strong> To make a purchase, you must have the following in your wallet:</p><ul><li>Stablecoins USDT or USDC in an amount corresponding to your planned purchase.</li><li>A minimum amount of BNB for the transaction fee (recommended minimum: $0.20 in BNB).</li></ul>"
+    },
+    "3": {
+      "title": "Step 2: Import the $ITH Token",
+      "content": "<p>To see your purchased $ITH tokens, you need to manually import the token into your wallet. Use the following smart contract address to import $ITH:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>In your wallet, select “Import Tokens”, paste the above address, and confirm. The $ITH token will now appear in your wallet.</p>"
+    },
+    "4": {
+      "title": "Step 3: Select the Amount of $ITH Tokens",
+      "content": "<p>Navigate to the “Buy $ITH Tokens” section, located on the homepage or in the navigation menu. Enter the amount in USD that you wish to spend on tokens (the minimum purchase value is $5). The system will automatically calculate the number of tokens you will receive. The price of 1 $ITH token is $0.00025, meaning for $5, you will receive 20,000 $ITH tokens.</p>"
+    },
+    "5": {
+      "title": "Step 4: Choose Payment Method",
+      "content": "<p>Select one of the available payment options:</p><ul><li>USDT (Tether)</li><li>USDC (USD Coin)</li></ul><p>Ensure you have a sufficient balance of your chosen stablecoin in your wallet.</p>"
+    },
+    "6": {
+      "title": "Step 5: Finalize the Transaction",
+      "content": "<p>After clicking the “Buy” button, the system will display the transaction details. Verify the information and confirm your purchase. Your wallet app will prompt you to approve the transaction and pay the minimal gas fee in the BNB Smart Chain network. Once the transaction is confirmed, the $ITH tokens will be automatically transferred to your wallet.</p>"
+    },
+    "7": {
+      "title": "Step 6: Check Your Tokens",
+      "content": "<p>After completing the transaction, you can view your $ITH token balance in the “Your Wallet” section on the InTheHouse.io platform. Ensure you have successfully imported the token using the smart contract address:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>If you do not see your tokens, double-check the import process.</p>"
+    },
+    "8": {
+      "title": "Important Information",
+      "content": "<ul><li>Minimum transaction value: $5.</li><li>Gas fee: Minimum BNB amount to cover transaction costs is $0.20.</li><li>Accepted stablecoins: USDT, USDC.</li><li>Token price: $0.00025 per $ITH token.</li></ul>"
+    },
+    "9": {
+      "title": "Have Questions?",
+      "content": "<p>If you encounter any issues during the purchase process, our technical support team is here to help:</p><ul><li>Email: <a href=\"mailto:support@inthehouse.io\">support@inthehouse.io</a></li></ul>"
+    }
+  }
+}

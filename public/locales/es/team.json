@@ -1,0 +1,24 @@
+{
+  "heading": "Nuestro equipo",
+  "becomeMember": "Únete a nosotros",
+  "items": [
+    {
+      "title": "Expertos en tecnología",
+      "description": "<p>Nuestros ingenieros y desarrolladores son <strong>especialistas</strong> con años de experiencia en tecnología blockchain y desarrollo de software. Sus habilidades incluyen:</p><ul><li>Construir sistemas <strong>seguros</strong> y <strong>escalables</strong></li><li>Diseñar contratos inteligentes robustos</li><li>Optimizar el rendimiento bajo altas cargas</li></ul>"
+    },
+    {
+      "title": "Estrategas de mercado",
+      "description": "<p>Nuestro equipo de marketing conoce el mercado a fondo y crea campañas que realmente resuenan con la audiencia. Aspectos destacados de su enfoque:</p><ul><li>Segmentación de audiencia basada en <strong>datos</strong></li><li>Estrategias <strong>multicanal</strong> innovadoras</li><li>Eventos de construcción de <strong>comunidad</strong> atractivos</li></ul>"
+    },
+    {
+      "title": "Expertos financieros",
+      "description": "<p>Nuestro equipo financiero aporta:</p><ul><li>Pericia en <strong>gestión de inversiones</strong></li><li>Historial comprobado en <strong>recaudación de fondos</strong></li><li>Capacidad para <strong>prever</strong> tendencias del mercado</li></ul><p>Gracias a su enfoque analítico, administramos los recursos con precisión.</p>"
+    },
+    {
+      "title": "Asesores legales",
+      "description": "<p>Colaboramos con asesores legales de primer nivel que garantizan el cumplimiento en:</p><ul><li>Regulaciones de blockchain y criptomonedas</li><li>Leyes de protección de datos y privacidad</li><li>Acuerdos de propiedad intelectual</li></ul><p>Sus orientaciones son <strong>cruciales</strong> para la seguridad y la confianza en nuestro proyecto.</p>"
+    }
+  ],
+  "whyUsTitle": "¿Por qué nosotros?",
+  "whyUsText": "<p><strong>Nuestra fuerza</strong> radica en la <strong>diversidad</strong> de habilidades y experiencias que combinamos:</p><ul><li>Colaboración interdisciplinaria</li><li>Enfoque innovador</li><li>Pasión inquebrantable</li></ul><p>Estamos decididos a introducir soluciones que <strong>transformen</strong> nuestra industria y aporten un valor real a nuestros usuarios.</p>"
+}

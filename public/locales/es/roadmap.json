@@ -1,0 +1,80 @@
+{
+  "title": "Hoja de ruta",
+  "learnMore": "Más información",
+  "subtitle": "Línea de tiempo y hitos",
+  "heading": "Hitos clave de la implementación del proyecto",
+  "description": "El proyecto DogWalkerToken se implementa en etapas, siguiendo el enfoque: planificación – construcción – pruebas – expansión. Cada paso tiene un objetivo claramente definido: aumentar la usabilidad, la participación de la comunidad y el valor del token.",
+  "goalLabel": "Objetivo:",
+  "phases": [
+    {
+      "label": "Fase 1: Planificación e investigación de mercado (Q1 2025)",
+      "items": [
+        "Análisis del mercado de servicios para mascotas",
+        "Consultas con dueños de perros, cuidadores e inversores",
+        "Preparación de tokenómica, estrategia de staking y modelo de referidos",
+        "Selección de tecnología (BSC) y diseño de la arquitectura de la aplicación"
+      ],
+      "goal": "Crear bases sólidas para el concepto y la tokenización"
+    },
+    {
+      "label": "Etapa 2: ICO público y preventa (Q2 2025)",
+      "items": [
+        "Inicio de la primera ronda de ICO a un precio de 0,01 USD por DWT",
+        "Lanzamiento de una campaña de marketing (redes sociales, influencers, artículos)",
+        "Sistema de referidos (5 %) y listas blancas",
+        "Airdrops y staking anticipado con APR del 20 % para los primeros usuarios"
+      ],
+      "goal": "Financiar el proyecto y crear una comunidad activa"
+    },
+    {
+      "label": "Fase 3: Planificación e investigación de mercado (Q1 2025)",
+      "items": [
+        "Análisis del mercado de servicios para mascotas",
+        "Consultas con dueños de perros, cuidadores e inversores",
+        "Preparación de tokenómica, estrategia de staking y modelo de referidos",
+        "Selección de tecnología (BSC) y diseño de la arquitectura de la aplicación"
+      ],
+      "goal": "Versión beta lista con lógica Web3 completa"
+    },
+    {
+      "label": "Etapa 4: ICO público y preventa (Q2 2025)",
+      "items": [
+        "Inicio de la primera ronda de ICO a un precio de 0,01 USD por DWT",
+        "Lanzamiento de una campaña de marketing (redes sociales, influencers, artículos)",
+        "Sistema de referidos (5 %) y listas blancas",
+        "Airdrops y staking anticipado con APR del 20 % para los primeros usuarios"
+      ],
+      "goal": "Crear bases sólidas para el concepto y la tokenización"
+    },
+    {
+      "label": "Etapa 5: ICO público y preventa (Q2 2025)",
+      "items": [
+        "Inicio de la primera ronda de ICO a un precio de 0,01 USD por DWT",
+        "Lanzamiento de una campaña de marketing (redes sociales, influencers, artículos)",
+        "Sistema de referidos (5 %) y listas blancas",
+        "Airdrops y staking anticipado con APR del 20 % para los primeros usuarios"
+      ],
+      "goal": "Crear bases sólidas para el concepto y la tokenización"
+    },
+    {
+      "label": "Etapa 6: ICO público y preventa (Q2 2025)",
+      "items": [
+        "Inicio de la primera ronda de ICO a un precio de 0,01 USD por DWT",
+        "Lanzamiento de una campaña de marketing (redes sociales, influencers, artículos)",
+        "Sistema de referidos (5 %) y listas blancas",
+        "Airdrops y staking anticipado con APR del 20 % para los primeros usuarios"
+      ],
+      "goal": "Crear bases sólidas para el concepto y la tokenización"
+    },
+    {
+      "label": "Etapa 7: ICO público y preventa (Q2 2025)",
+      "items": [
+        "Inicio de la primera ronda de ICO a un precio de 0,01 USD por DWT",
+        "Lanzamiento de una campaña de marketing (redes sociales, influencers, artículos)",
+        "Sistema de referidos (5 %) y listas blancas",
+        "Airdrops y staking anticipado con APR del 20 % para los primeros usuarios"
+      ],
+      "goal": "Crear bases sólidas para el concepto y la tokenización"
+    }
+  ]
+}

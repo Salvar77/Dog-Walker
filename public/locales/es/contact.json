@@ -1,0 +1,50 @@
+{
+  "getHelpLabel": "Obtener ayuda",
+  "faqHeading": "Preguntas Frecuentes",
+  "faqDescription": "Encuentra respuestas rápidas a preguntas comunes sobre nuestro sitio web, productos y servicios.<br/>Contáctanos directamente con tus consultas, comentarios o solicitudes de soporte.<br/><br/>Si necesitas ayuda, por favor contáctanos.",
+  "questions": [
+    {
+      "question": "❓ ¿Qué es DogWalker y qué es $DWT?",
+      "answer": "DogWalker es una plataforma Web3 que conecta a dueños de mascotas con paseadores de perros verificados. El token $DWT es el token de utilidad nativo del ecosistema DogWalker, utilizado para staking, recompensas y transacciones dentro de la aplicación."
+    },
+    {
+      "question": "❓ ¿Cómo puedo ganar con DogWalker?",
+      "answer": "Puedes ganar de dos maneras:\n• Haciendo staking de tokens $DWT y recibiendo hasta un 15% de recompensa anual.\n• Ofreciendo servicios de paseo de perros y siendo pagado en tokens $DWT."
+    },
+    {
+      "question": "❓ ¿Qué es el staking y cómo funciona?",
+      "answer": "El staking consiste en bloquear tus tokens $DWT en el contrato inteligente de la plataforma para apoyar la red. A cambio, recibes recompensas pasivas basadas en tu participación en el pool de staking."
+    },
+    {
+      "question": "❓ ¿Cuánto puedo ganar haciendo staking de $DWT?",
+      "answer": "La recompensa estimada es del 15% anual (1,25% mensual / 0,041% diario). Las recompensas se calculan dinámicamente según la cantidad apostada y el tamaño total del pool."
+    },
+    {
+      "question": "❓ ¿Existe una cantidad mínima para hacer staking?",
+      "answer": "No hay un mínimo estricto, pero recomendamos hacer staking de al menos 100 DWT para obtener rendimientos significativos y cubrir las comisiones de gas de manera eficiente."
+    },
+    {
+      "question": "❓ ¿Cuándo puedo reclamar mis recompensas?",
+      "answer": "Puedes reclamar tus recompensas en cualquier momento haciendo clic en el botón “Claim Rewards”. Tus tokens se enviarán directamente a tu cartera."
+    },
+    {
+      "question": "❓ ¿Puedo retirar mis tokens?",
+      "answer": "Sí, puedes retirar tus tokens en cualquier momento. Sin embargo, en el futuro la plataforma podría introducir periodos de vesting o de desbloqueo por razones de seguridad y sostenibilidad."
+    },
+    {
+      "question": "❓ ¿Es seguro DogWalker?",
+      "answer": "DogWalker utiliza contratos inteligentes auditados y funciona en BNB Smart Chain, garantizando un alto nivel de seguridad y bajas comisiones de transacción. Usa siempre una cartera segura y nunca compartas tus claves privadas."
+    },
+    {
+      "question": "❓ ¿Dónde puedo comprar tokens $DWT?",
+      "answer": "Puedes adquirir tokens $DWT directamente en nuestra plataforma o a través de DEX compatibles (próximamente). Asegúrate de que tu cartera esté conectada a BNB Smart Chain."
+    }
+  ],
+  "formHeading": "¿No encontraste la respuesta a tu pregunta?",
+  "formDescription": "No te preocupes, utiliza nuestro formulario. Nuestro equipo intentará responder en las próximas 24 horas.",
+  "namePlaceholder": "Nombre…",
+  "emailPlaceholder": "Correo electrónico…",
+  "subjectPlaceholder": "Asunto…",
+  "messagePlaceholder": "Escribe un mensaje…",
+  "submitCTA": "Enviar"
+}

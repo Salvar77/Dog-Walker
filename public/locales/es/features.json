@@ -1,0 +1,33 @@
+{
+  "title": "Todo sobre",
+  "highlight": "Nuestra aplicación",
+  "sectionTitle": "Características de la aplicación",
+  "features": [
+    {
+      "title": "Paseo de perro con un solo clic",
+      "description": "Solicitas un paseo: en segundos encuentras a un cuidador de confianza en tu zona."
+    },
+    {
+      "title": "Guardianes de reputación on-chain",
+      "description": "Reseñas verificadas e historial de paseos almacenados on-chain."
+    },
+    {
+      "title": "Pago con DogWalkerToken (DWT)",
+      "description": "Paga servicios con nuestro token nativo de forma rápida y segura."
+    },
+    {
+      "title": "Misiones, clasificaciones y fidelidad",
+      "description": "Gana recompensas y escala posiciones con cada paseo."
+    },
+    {
+      "title": "Calendario de salud y cuidados",
+      "description": "Sigue la salud, las visitas al veterinario y el aseo fácilmente."
+    },
+    {
+      "title": "Apoyo a refugios y adopciones",
+      "description": "Dona y conéctate directamente con refugios locales."
+    }
+  ],
+  "appStore": "Descargar en App Store",
+  "googlePlay": "Consíguelo en"
+}

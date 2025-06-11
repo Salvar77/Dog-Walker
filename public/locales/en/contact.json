@@ -1,0 +1,50 @@
+{
+  "getHelpLabel": "Get Help",
+  "faqHeading": "Frequently Asked Questions",
+  "faqDescription": "Find quick answers to common questions about our website, products, and services.<br/>Reach out to us directly with your inquiries, feedback, or support requests.<br/><br/>If you need help, please contact us.",
+  "questions": [
+    {
+      "question": "❓ What is DogWalker and what is $DWT?",
+      "answer": "DogWalker is a Web3-based platform connecting pet owners with verified dog walkers. The $DWT token is the native utility token of the DogWalker ecosystem, used for staking, rewards, and in-app transactions."
+    },
+    {
+      "question": "❓ How can I earn with DogWalker?",
+      "answer": "You can earn in two ways:\n• Staking $DWT tokens and receiving up to 15% annual rewards.\n• Offering dog walking services and getting paid in $DWT tokens."
+    },
+    {
+      "question": "❓ What is staking and how does it work?",
+      "answer": "Staking means locking your $DWT tokens in the platform’s smart contract to support the network. In return, you earn passive rewards based on your share in the staking pool."
+    },
+    {
+      "question": "❓ How much can I earn by staking $DWT?",
+      "answer": "The estimated reward is 15% annually (1.25% monthly / 0.041% daily). Rewards are calculated dynamically based on the amount staked and the total pool."
+    },
+    {
+      "question": "❓ Is there a minimum amount to stake?",
+      "answer": "There is no strict minimum, but we recommend staking at least 100 DWT to see meaningful returns and cover gas costs efficiently."
+    },
+    {
+      "question": "❓ When can I claim my rewards?",
+      "answer": "You can claim your rewards at any time by clicking the “Claim Rewards” button. Your tokens will be sent directly to your wallet."
+    },
+    {
+      "question": "❓ Can I unstake my tokens?",
+      "answer": "Yes, you can unstake your tokens at any moment. However, in the future the platform may introduce vesting or cooldown periods for security and sustainability."
+    },
+    {
+      "question": "❓ Is DogWalker safe?",
+      "answer": "DogWalker uses audited smart contracts and operates on the BNB Smart Chain, ensuring high security and low transaction fees. Always use a secure wallet and never share your private keys."
+    },
+    {
+      "question": "❓ Where can I buy $DWT tokens?",
+      "answer": "You can purchase $DWT directly through our platform or via supported DEX platforms (coming soon). Make sure your wallet is connected to the BNB Smart Chain."
+    }
+  ],
+  "formHeading": "Haven’t found the answer to your question?",
+  "formDescription": "Don’t worry, use our ticket form. Our team will try to answer within the next 24 hours.",
+  "namePlaceholder": "Name…",
+  "emailPlaceholder": "E-mail address…",
+  "subjectPlaceholder": "Subject…",
+  "messagePlaceholder": "Type a message…",
+  "submitCTA": "Submit"
+}

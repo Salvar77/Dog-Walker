@@ -1,0 +1,24 @@
+{
+  "heading": "Nasz zespół",
+  "becomeMember": "Dołącz do nas",
+  "items": [
+    {
+      "title": "Eksperci technologiczni",
+      "description": "<p>Nasi inżynierowie i deweloperzy to prawdziwi <strong>specjaliści</strong> z wieloletnim doświadczeniem w technologii blockchain i tworzeniu oprogramowania. Ich umiejętności obejmują:</p><ul><li>Budowanie <strong>bezpiecznych</strong> i <strong>skalowalnych</strong> systemów</li><li>Projektowanie solidnych smart kontraktów</li><li>Optymalizację wydajności przy dużym obciążeniu</li></ul>"
+    },
+    {
+      "title": "Strategowie rynkowi",
+      "description": "<p>Nasz zespół marketingowy doskonale zna rynek i tworzy kampanie, które naprawdę rezonują z odbiorcami. Najważniejsze elementy ich podejścia:</p><ul><li><strong>Strategie oparte na danych</strong> i segmentacja odbiorców</li><li>Innowacyjne <strong>wielo-kanałowe</strong> działania</li><li>Angażujące wydarzenia budujące <strong>społeczność</strong></li></ul>"
+    },
+    {
+      "title": "Eksperci finansowi",
+      "description": "<p>Nasz zespół finansowy oferuje:</p><ul><li>Ekspertyzę w <strong>zarządzaniu inwestycjami</strong></li><li>Sprawdzone doświadczenie w <strong>pozyskiwaniu funduszy</strong></li><li>Umiejętność <strong>prognozowania</strong> trendów rynkowych</li></ul><p>Dzięki analitycznemu podejściu zarządzamy zasobami z niezwykłą precyzją.</p>"
+    },
+    {
+      "title": "Doradcy prawni",
+      "description": "<p>Współpracujemy z prawnikami, którzy zapewniają zgodność z przepisami w zakresie:</p><ul><li>blockchainu i kryptowalut</li><li>ochrony danych osobowych</li><li>własności intelektualnej</li></ul><p>Ich wsparcie jest <strong>kluczowe</strong> dla bezpieczeństwa projektu.</p>"
+    }
+  ],
+  "whyUsTitle": "Dlaczego my?",
+  "whyUsText": "<p><strong>Nasza siła</strong> tkwi w <strong>różnorodności</strong> umiejętności i doświadczeń, które łączymy:</p><ul><li>Współpraca międzydziałowa</li><li>Innowacyjne podejście</li><li>Nieustająca pasja</li></ul><p>Jesteśmy zdeterminowani, by wprowadzać rozwiązania, które <strong>odmienią</strong> naszą branżę i przyniosą realną wartość użytkownikom.</p>"
+}

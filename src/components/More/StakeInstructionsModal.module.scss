@@ -1,0 +1,187 @@
+@import "../../styles/colors";
+
+.backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal {
+  background: darken($primary-color, 15%);
+  border-radius: 1.2rem;
+  width: 90%;
+  max-width: 59rem;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.header {
+  padding: 1.9rem 1.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: $white-smooth;
+  h2 {
+    font-size: 2.1rem;
+    margin: 0;
+  }
+}
+
+.closeBtn {
+  background: $red-main;
+  border: none;
+  color: $white-smooth;
+  padding: 1rem 1.3rem;
+  font-size: 1.1rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.body {
+  padding: 1.5rem;
+  color: $grey-smooth;
+  flex: 1;
+  line-height: 1.6;
+  font-size: 1.6rem;
+
+  p {
+    margin-bottom: 0.5rem;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin: 1rem 0 1rem 2rem;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  pre {
+    background: darken($grey-smooth-2, 25%);
+    padding: 1rem;
+    border-radius: 0.6rem;
+    font-family: monospace;
+    font-size: 1.4rem;
+    color: $white-smooth;
+    overflow-x: auto;
+    margin: 1.2rem 0;
+  }
+}
+
+.footer {
+  padding: 1.5rem 2rem;
+  display: grid;
+  grid-template-areas:
+    "prev spacer next"
+    "indicators indicators indicators";
+  grid-template-columns: auto 1fr auto;
+  row-gap: 1rem;
+  align-items: center;
+}
+
+.prevBtn,
+.nextBtn {
+  margin-bottom: 1rem;
+}
+
+.prevBtn {
+  grid-area: prev;
+  background: $grey-smooth-4;
+  color: $dark-smooth;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.6rem;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  &:hover:not(:disabled) {
+    background: lighten($grey-smooth-4, 5%);
+  }
+  &:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+}
+
+.nextBtn {
+  grid-area: next;
+  background: $main-color;
+  color: $white-smooth;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.6rem;
+  border-radius: 0.6rem;
+  cursor: pointer;
+  transition: background 0.2s;
+  &:hover:not(:disabled) {
+    background: darken($main-color, 10%);
+  }
+  &:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+}
+
+.indicators {
+  grid-area: indicators;
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.indicators span {
+  width: 2.4rem;
+  height: 2.4rem;
+  background: $grey-smooth-4;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  color: $dark-smooth;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  &:hover {
+    background: lighten($grey-smooth-4, 5%);
+  }
+}
+
+.indicators .active {
+  background: $main-color;
+  color: $white-smooth;
+}
+
+@media (min-width: 992px) {
+  .header {
+    h2 {
+      font-size: 2.4rem;
+    }
+  }
+  .footer {
+    padding: 1rem 1.5rem;
+    row-gap: 0.75rem;
+  }
+  .prevBtn,
+  .nextBtn {
+    font-size: 1.6rem;
+    padding: 1rem 1.5rem;
+    border-radius: 0.4rem;
+  }
+
+  .closeBtn {
+    font-size: 1.4rem;
+  }
+
+  .indicators span {
+    width: 2.9rem;
+    height: 2.9rem;
+    font-size: 1.1rem;
+  }
+}

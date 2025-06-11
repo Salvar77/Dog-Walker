@@ -1,0 +1,59 @@
+{
+  "heading": "Staking",
+  "howItWorks": "How it works",
+  "balanceLabel": "Balance",
+  "stakeableLabel": "Your stakeable",
+  "purchaseBalanceCTA": "Purchase Balance",
+  "percentOfPoolLabel": "% of Pool",
+  "totalStakedLabel": "Total Staked",
+  "withdrawTokensCTA": "Unstake Token",
+  "estimatedRewardsLabel": "Estimated Rewards",
+  "rewardsRateDynamic": "Rewards rate is dynamic",
+  "monthlyNote": "Monthly =",
+  "dailyNote": "Daily = ",
+  "currentRewardsLabel": "Rewards Pool",
+  "totalRewardsLabel": "Total Rewards",
+  "claimRewardsCTA": "Claim Rewards",
+  "totalSupplyLabel": "Total Supply",
+  "balanceAmount": "0 DTW",
+  "stakeableAmount": "0 DTW",
+  "percentOfPoolAmount": "0 DTW",
+  "totalStakedAmount": "0 DTW",
+  "estimatedRewardsRate": "122% p/a",
+  "currentRewardsAmount": "4377.4",
+  "perEthBlockLabel": "per ETH Block",
+  "totalRewardsAmount": "0 DTW",
+  "reward": "Rewards",
+  "instructions": {
+    "prev": "Previous",
+    "next": "Next",
+    "close": "Close",
+    "count": 6,
+    "introTitle": "How to Stake $DWT Tokens on DogWalker?",
+    "intro": "Staking your $DWT tokens is a great way to passively earn rewards while supporting the DogWalker ecosystem. Follow this simple step-by-step guide to get started:",
+    "1": {
+      "title": "Step 1: Connect Your Wallet",
+      "content": "<ul><li>Go to dog-walker-app.netlify.app</li><li>Click the “Connect Wallet” button in the top menu.</li><li>Select your preferred wallet (MetaMask, Trust Wallet, etc.) connected to the <strong>BNB Smart Chain (BSC)</strong>.</li></ul><p>Make sure your wallet contains $DWT tokens and a small amount of <strong>BNB</strong> for gas fees.</p>"
+    },
+    "2": {
+      "title": "Step 2: Check Your Balance",
+      "content": "<p>After connecting your wallet, your current $DWT balance and staking options will appear:</p><ul><li><strong>Balance:</strong> Available $DWT tokens in your wallet</li><li><strong>To Stake:</strong> Tokens ready to be staked</li><li><strong>Total Rewards Pool:</strong> 20,000,000 DWT available for staking rewards</li><li><strong>Estimated Rewards:</strong> 15% annual yield (1.25% monthly or ~0.041% daily)</li></ul>"
+    },
+    "3": {
+      "title": "Step 3: Approve the Token",
+      "content": "<ul><li>Click the <strong>“Unlock Token”</strong> button.</li><li>Confirm the transaction in your wallet to approve $DWT for staking.</li></ol><p>This is a one-time step that allows the staking contract to interact with your tokens.</p>"
+    },
+    "4": {
+      "title": "Step 4: Stake Your Tokens",
+      "content": "<ul><li>Enter the number of $DWT tokens you want to stake.</li><li>Click the <strong>“Stake”</strong> button and confirm the transaction in your wallet.</li><li>Once confirmed, your staked amount will appear under <strong>“Staked Amount”</strong> and your share of the pool will update.</li></ul>"
+    },
+    "5": {
+      "title": "Step 5: Claim Your Rewards",
+      "content": "<ul><li>Rewards accumulate daily and are based on your share of the staking pool.</li><li>Click <strong>“Claim Rewards”</strong> to receive your earned $DWT tokens directly to your wallet.</li></ul><p>You can claim rewards at any time. Make sure to keep some BNB for gas fees.</p>"
+    },
+    "6": {
+      "title": "Bonus Info",
+      "content": "<ul><li><strong>Total Supply</strong>: See the current and projected token supply growth in the \"Total Supply\" chart below.</li><li><strong>APY</strong>: The annual reward rate is dynamic and depends on the total amount staked.</li></ul>"
+    }
+  }
+}

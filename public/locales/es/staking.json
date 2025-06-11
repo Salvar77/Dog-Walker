@@ -1,0 +1,59 @@
+{
+  "heading": "Staking",
+  "howItWorks": "Cómo funciona",
+  "balanceLabel": "Saldo",
+  "stakeableLabel": "Disponible para staking",
+  "purchaseBalanceCTA": "Comprar saldo",
+  "percentOfPoolLabel": "% del pool",
+  "totalStakedLabel": "Total apostado",
+  "withdrawTokensCTA": "Retirar tokens",
+  "estimatedRewardsLabel": "Recompensas estimadas",
+  "rewardsRateDynamic": "La tasa de recompensas es dinámica",
+  "monthlyNote": "Mensual =",
+  "dailyNote": "Diario =",
+  "currentRewardsLabel": "Fondo de recompensas",
+  "totalRewardsLabel": "Recompensas totales",
+  "claimRewardsCTA": "Reclamar recompensas",
+  "totalSupplyLabel": "Suministro total",
+  "balanceAmount": "0 DTW",
+  "stakeableAmount": "0 DTW",
+  "percentOfPoolAmount": "0 DTW",
+  "totalStakedAmount": "0 DTW",
+  "estimatedRewardsRate": "122% anual",
+  "currentRewardsAmount": "4377.4",
+  "perEthBlockLabel": "por bloque de ETH",
+  "totalRewardsAmount": "0 DTW",
+  "reward": "Recompensas",
+  "instructions": {
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "close": "Cerrar",
+    "count": 6,
+    "introTitle": "¿Cómo hacer staking de $DWT en DogWalker?",
+    "intro": "Hacer staking con tus tokens $DWT es una excelente manera de ganar recompensas pasivas mientras apoyas el ecosistema de DogWalker. Sigue esta sencilla guía paso a paso para comenzar:",
+    "1": {
+      "title": "Paso 1: Conecta tu monedero",
+      "content": "<ul><li>Visita <a href=\"https://dog-walker-app.netlify.app\" target=\"_blank\">dog-walker-app.netlify.app</a></li><li>Haz clic en el botón <strong>“Connect Wallet”</strong> en el menú superior.</li><li>Selecciona tu monedero preferido (MetaMask, Trust Wallet, etc.) conectado a la <strong>BNB Smart Chain (BSC)</strong>.</li></ul><p>Asegúrate de tener tokens $DWT y una pequeña cantidad de <strong>BNB</strong> para las comisiones de gas.</p>"
+    },
+    "2": {
+      "title": "Paso 2: Revisa tu saldo",
+      "content": "<p>Tras conectar tu monedero, verás:</p><ul><li><strong>Saldo:</strong> Tokens $DWT disponibles</li><li><strong>Para staking:</strong> Tokens listos para apostar</li><li><strong>Piscina de recompensas:</strong> 20 000 000 DWT disponibles</li><li><strong>Recompensas estimadas:</strong> 15 % anual (1,25 % mensual o ~0,041 % diario)</li></ul>"
+    },
+    "3": {
+      "title": "Paso 3: Autoriza el token",
+      "content": "<ul><li>Haz clic en el botón <strong>“Unlock Token”</strong>.</li><li>Confirma la transacción en tu monedero para autorizar $DWT para staking.</li></ul><p>Este paso es único y permite al contrato de staking interactuar con tus tokens.</p>"
+    },
+    "4": {
+      "title": "Paso 4: Haz staking de tus tokens",
+      "content": "<ul><li>Introduce la cantidad de tokens $DWT que deseas apostar.</li><li>Haz clic en el botón <strong>“Stake”</strong> y confirma la transacción en tu monedero.</li><li>Una vez confirmada, tu cantidad apostada aparecerá en <strong>“Staked Amount”</strong> y tu participación en la piscina se actualizará.</li></ul>"
+    },
+    "5": {
+      "title": "Paso 5: Reclama tus recompensas",
+      "content": "<ul><li>Las recompensas se acumulan diariamente según tu participación en la piscina.</li><li>Haz clic en <strong>“Claim Rewards”</strong> para recibir los tokens $DWT ganados directamente en tu monedero.</li></ul><p>Puedes reclamar recompensas en cualquier momento. Asegúrate de tener algo de BNB para las comisiones de gas.</p>"
+    },
+    "6": {
+      "title": "Bonus Info",
+      "content": "<ul><li><strong>Total Supply</strong>: Consulta el crecimiento actual y proyectado de la oferta en el gráfico “Total Supply” a continuación.</li><li><strong>APY</strong>: La tasa anual de recompensas es dinámica y depende de la cantidad total apostada.</li></ul>"
+    }
+  }
+}

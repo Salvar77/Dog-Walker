@@ -1,0 +1,62 @@
+{
+  "heading": "Preventa del Token",
+  "howToBuy": "¿Cómo comprar?",
+  "launchPriceLabel": "Precio de lanzamiento",
+  "price": "1 DWT =",
+  "listingPriceLabel": "Precio de listado",
+  "listingPrice": "1$",
+  "soldLabel": "Vendidos:",
+  "soldAmount": "250 DWT",
+  "totalLabel": "Total de DWT:",
+  "totalAmount": "10 000",
+  "days": "Días",
+  "hours": "Horas",
+  "mins": "Min.",
+  "secs": "Seg.",
+  "until": "Hasta el inicio de la preventa",
+  "purchaseCTA": "Comprar DogWalker Token",
+  "poweredPrefix": "Impulsado y respaldado por",
+  "currentRound": "Ronda actual",
+  "instructions": {
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "count": 9,
+    "1": {
+      "title": "¿Cómo comprar tokens $ITH en InTheHouse.io?",
+      "content": "Comprar tokens $ITH en la plataforma InTheHouse.io es rápido y sencillo. Sigue estos pasos para convertirte en titular de tokens y apoyar nuestra visión de servicios domésticos modernos basados en Web3."
+    },
+    "2": {
+      "title": "Paso 1: Conecta tu monedero",
+      "content": "<p>En la página de inicio de InTheHouse.io, haz clic en el botón “Connect Wallet” en la esquina superior derecha. Elige un monedero compatible con la red BNB Smart Chain, como MetaMask o Trust Wallet, y sigue las instrucciones mostradas en tu app para conectar a la plataforma.</p><p><strong>Nota:</strong> Para poder comprar, necesitas tener en tu monedero:</p><ul><li>Stablecoins USDT o USDC por el importe de tu compra.</li><li>Una cantidad mínima de BNB para cubrir la comisión de la transacción (mínimo recomendado: 0,20 USD en BNB).</li></ul>"
+    },
+    "3": {
+      "title": "Paso 2: Importa el token $ITH",
+      "content": "<p>Para ver tus tokens $ITH comprados, debes importarlos manualmente en tu monedero. Usa la siguiente dirección de contrato inteligente:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>En tu monedero, selecciona “Import Tokens”, pega la dirección anterior y confirma. El token $ITH aparecerá en tu monedero.</p>"
+    },
+    "4": {
+      "title": "Paso 3: Selecciona la cantidad de tokens $ITH",
+      "content": "<p>Ve a la sección “Buy $ITH Tokens” en la página de inicio o en el menú de navegación. Introduce el importe en USD que deseas gastar (mínimo $5). El sistema calculará automáticamente la cantidad de tokens al precio de $0,00025 por 1 $ITH (por ejemplo, con $5 recibirás 20 000 $ITH).</p>"
+    },
+    "5": {
+      "title": "Paso 4: Elige el método de pago",
+      "content": "<p>Selecciona una de las opciones disponibles:</p><ul><li>USDT (Tether)</li><li>USDC (USD Coin)</li></ul><p>Asegúrate de tener saldo suficiente del stablecoin elegido en tu monedero.</p>"
+    },
+    "6": {
+      "title": "Paso 5: Finaliza la transacción",
+      "content": "<p>Tras hacer clic en “Buy”, el sistema mostrará los detalles de la transacción. Verifica la información y confirma la compra. Tu monedero te pedirá aprobar la transacción y pagar la comisión mínima de gas en la red BNB Smart Chain. Una vez confirmada, los tokens $ITH se transferirán automáticamente a tu monedero.</p>"
+    },
+    "7": {
+      "title": "Paso 6: Verifica tus tokens",
+      "content": "<p>Después de completar la transacción, puedes ver el saldo de $ITH en la sección “Your Wallet” de InTheHouse.io. Asegúrate de haber importado correctamente el token con la siguiente dirección:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>Si no ves tus tokens, revisa de nuevo el proceso de importación.</p>"
+    },
+    "8": {
+      "title": "Información importante",
+      "content": "<ul><li>Valor mínimo de la transacción: $5.</li><li>Comisión de gas: cantidad mínima de BNB para cubrir los costes de la transacción, ≈ $0,20.</li><li>Stablecoins aceptados: USDT, USDC.</li><li>Precio del token: $0,00025 por token $ITH.</li></ul>"
+    },
+    "9": {
+      "title": "¿Tienes preguntas?",
+      "content": "<p>Si encuentras algún problema durante el proceso de compra, nuestro equipo de soporte técnico está aquí para ayudar:</p><ul><li>Email: <a href=\"mailto:support@inthehouse.io\">support@inthehouse.io</a></li></ul>"
+    },
+    "close": "Cerrar"
+  }
+}

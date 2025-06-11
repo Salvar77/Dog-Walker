@@ -1,0 +1,30 @@
+{
+  "label": "Modelo de crecimiento del precio del token",
+  "subtitle": "10 rondas de ICO + 20% en cada ronda",
+  "verticalLabel": "CRECIMIENTO DEL PRECIO DEL TOKEN",
+  "headers": {
+    "round": "Ronda",
+    "price": "Precio de DWT (USD)",
+    "increase": "Aumento respecto a la anterior",
+    "allocation": "Porcentaje de asignación",
+    "capital": "Capital recaudado (a asignación completa)"
+  },
+  "row": {
+    "round": "Ronda {{round}}"
+  },
+  "footer": {
+    "allocationLabel": "Total",
+    "capitalTotal": "~9.66 mln USD\n(9 mln EUR)",
+    "capitalTotalEur": "(9 mln EUR)"
+  },
+  "alts": {
+    "background": "Patrón de fondo para la sección de crecimiento de precios",
+    "rectangle1": "Rectángulo decorativo 1",
+    "rectangle2": "Rectángulo decorativo 2",
+    "rectangle3": "Rectángulo decorativo 3",
+    "rectangle4": "Rectángulo decorativo 4",
+    "dogIcon": "Icono decorativo de perro",
+    "rocketIcon": "Icono decorativo de cohete",
+    "dogTraces": "Huellas decorativas de perro"
+  }
+}
