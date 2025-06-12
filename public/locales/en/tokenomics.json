@@ -1,4 +1,11 @@
 {
   "heading": "Tokenomics",
-  "subheading": "Current Updated Tokenomic of DogWalker Token"
+  "subheading": "Current Updated Tokenomic of DogWalker Token",
+  "alt": {
+    "chartGrid": "Grid background behind tokenomics chart",
+    "outerRing": "Tokenomics chart outer ring showing distribution segment",
+    "middleRing": "Tokenomics chart middle ring showing distribution segment",
+    "innerRing": "Tokenomics chart inner ring showing distribution segment",
+    "centreGradient": "Tokenomics chart centre gradient overlay"
+  }
 }

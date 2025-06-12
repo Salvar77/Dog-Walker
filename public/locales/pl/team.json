@@ -20,5 +20,8 @@
     }
   ],
   "whyUsTitle": "Dlaczego my?",
-  "whyUsText": "<p><strong>Nasza siła</strong> tkwi w <strong>różnorodności</strong> umiejętności i doświadczeń, które łączymy:</p><ul><li>Współpraca międzydziałowa</li><li>Innowacyjne podejście</li><li>Nieustająca pasja</li></ul><p>Jesteśmy zdeterminowani, by wprowadzać rozwiązania, które <strong>odmienią</strong> naszą branżę i przyniosą realną wartość użytkownikom.</p>"
+  "whyUsText": "<p><strong>Nasza siła</strong> tkwi w <strong>różnorodności</strong> umiejętności i doświadczeń, które łączymy:</p><ul><li>Współpraca międzydziałowa</li><li>Innowacyjne podejście</li><li>Nieustająca pasja</li></ul><p>Jesteśmy zdeterminowani, by wprowadzać rozwiązania, które <strong>odmienią</strong> naszą branżę i przyniosą realną wartość użytkownikom.</p>",
+  "alt": {
+    "becomeArrow": "Strzałka wskazująca akcję dołączenia"
+  }
 }

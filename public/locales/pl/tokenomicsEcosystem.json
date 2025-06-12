@@ -6,5 +6,9 @@
   "solutionItem1": "nagradzanie wcześniejszych inwestorów",
   "solutionItem2": "tworzenie naturalnego popytu zakupowego",
   "solutionItem3": "zapewnianie stabilności wyceny tokena",
-  "solutionItem4": "oraz wsparcie płynnego i zrównoważonego pozyskiwania kapitału"
+  "solutionItem4": "oraz wsparcie płynnego i zrównoważonego pozyskiwania kapitału",
+  "alt": {
+    "bgPattern": "Wzór tła za sekcją ekosystemu",
+    "dogEcosystem": "Ilustracja psa z ikonami ekosystemu"
+  }
 }

@@ -34,5 +34,14 @@
       "title": "Zrównoważona centralizacja",
       "description": "Pozwala na szybszy rozwój przy zachowaniu odpowiedniego poziomu decentralizacji dla aplikacji codziennego użytku"
     }
-  ]
+  ],
+  "alt": {
+    "learnMoreArrow": "Strzałka wskazująca więcej informacji",
+    "iconLowFees": "Ikona niskich opłat",
+    "iconSpeed": "Ikona szybkości",
+    "iconEVM": "Ikona kompatybilności z EVM",
+    "iconCommunity": "Ikona społeczności",
+    "iconSecurity": "Ikona bezpieczeństwa",
+    "iconBalance": "Ikona zrównoważonej centralizacji"
+  }
 }

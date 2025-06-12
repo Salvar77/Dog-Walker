@@ -58,5 +58,16 @@
       "title": "Have Questions?",
       "content": "<p>If you encounter any issues during the purchase process, our technical support team is here to help:</p><ul><li>Email: <a href=\"mailto:support@inthehouse.io\">support@inthehouse.io</a></li></ul>"
     }
+  },
+  "connectWalletError": "Please connect your wallet first",
+  "alt": {
+    "dogTraces": "Dog paw traces in the background",
+    "ellipse": "Decorative ellipse",
+    "ellipseTwo": "Second decorative ellipse",
+    "vector": "Decorative vector element",
+    "dogLogo": "Dog logo",
+    "arrow": "Action arrow",
+    "rocket": "Rocket icon",
+    "tokenujIcon": "Tokenuj logo icon"
   }
 }

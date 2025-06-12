@@ -59,7 +59,12 @@ const Roadmap: React.FC = () => {
             <button className={classes.learnMore}>
               {t("learnMore")}
               <span className={classes.arrow}>
-                <Image src={LearnMoreArrow} alt="" width={12} height={12} />
+                <Image
+                  src={LearnMoreArrow}
+                  alt={t("alt.learnMoreArrow")}
+                  width={12}
+                  height={12}
+                />
               </span>
             </button>
           </Link>
@@ -124,7 +129,8 @@ const Roadmap: React.FC = () => {
 
         <Image
           src={RoadmapEllipse1}
-          alt="Roadmap ellipse image"
+          alt=""
+          aria-hidden="true"
           width={400}
           height={400}
           className={classes.ellipse}

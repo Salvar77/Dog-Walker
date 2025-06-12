@@ -46,5 +46,9 @@
   "emailPlaceholder": "Adres e-mail…",
   "subjectPlaceholder": "Temat…",
   "messagePlaceholder": "Wpisz wiadomość…",
-  "submitCTA": "Wyślij"
+  "submitCTA": "Wyślij",
+  "alt": {
+    "faq": "Ilustracja FAQ",
+    "support": "Ilustracja wsparcia klienta"
+  }
 }

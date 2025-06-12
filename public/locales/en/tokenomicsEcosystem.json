@@ -6,5 +6,9 @@
   "solutionItem1": "rewards earlier investors",
   "solutionItem2": "builds natural purchasing pressure",
   "solutionItem3": "ensures the stability of the token valuation",
-  "solutionItem4": "and supports smooth and sustainable capital acquisition"
+  "solutionItem4": "and supports smooth and sustainable capital acquisition",
+  "alt": {
+    "bgPattern": "Background pattern behind ecosystem section",
+    "dogEcosystem": "Dog illustration with ecosystem icons"
+  }
 }

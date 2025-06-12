@@ -34,5 +34,14 @@
       "title": "Centralización equilibrada",
       "description": "Permite un desarrollo más rápido manteniendo un nivel adecuado de descentralización para aplicaciones de uso diario"
     }
-  ]
+  ],
+  "alt": {
+    "learnMoreArrow": "Flecha que indica más información",
+    "iconLowFees": "Icono de bajas comisiones",
+    "iconSpeed": "Icono de velocidad",
+    "iconEVM": "Icono compatible con EVM",
+    "iconCommunity": "Icono de comunidad",
+    "iconSecurity": "Icono de seguridad",
+    "iconBalance": "Icono de centralización equilibrada"
+  }
 }

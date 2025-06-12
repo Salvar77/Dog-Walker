@@ -76,5 +76,8 @@
       ],
       "goal": "Stworzenie solidnych podstaw pod koncept i tokenizację"
     }
-  ]
+  ],
+  "alt": {
+    "learnMoreArrow": "Strzałka wskazująca więcej szczegółów"
+  }
 }

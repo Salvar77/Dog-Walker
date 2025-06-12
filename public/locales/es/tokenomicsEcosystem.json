@@ -6,5 +6,9 @@
   "solutionItem1": "premia a los inversores tempranos",
   "solutionItem2": "genera presión natural de compra",
   "solutionItem3": "asegura la estabilidad de la valoración del token",
-  "solutionItem4": "y apoya la obtención de capital de manera fluida y sostenible"
+  "solutionItem4": "y apoya la obtención de capital de manera fluida y sostenible",
+  "alt": {
+    "bgPattern": "Patrón de fondo detrás de la sección del ecosistema",
+    "dogEcosystem": "Ilustración de perro con iconos del ecosistema"
+  }
 }

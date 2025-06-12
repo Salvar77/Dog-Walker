@@ -55,5 +55,10 @@
       "title": "Bonus Info",
       "content": "<ul><li><strong>Total Supply</strong>: zobacz bieżący i prognozowany wzrost podaży tokenów na wykresie „Total Supply”.</li><li><strong>APY</strong>: roczna stopa nagród jest dynamiczna i zależy od łącznej wartości zstakowanych tokenów.</li></ul>"
     }
+  },
+  "alt": {
+    "howItWorksArrow": "Strzałka wskazująca instrukcje",
+    "dogLock": "Pies z ikoną kłódki symbolizujący staking",
+    "claimButton": "Ikona przycisku odbierania nagród"
   }
 }

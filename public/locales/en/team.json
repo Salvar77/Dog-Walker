@@ -20,5 +20,8 @@
     }
   ],
   "whyUsTitle": "Why Us?",
-  "whyUsText": "<p><strong>Our strength</strong> lies in the <strong>diversity</strong> of skills and experiences we bring together:</p><ul><li>Cross-functional collaboration</li><li>Innovative mindset</li><li>Relentless passion</li></ul><p>We are determined to introduce solutions that will <strong>transform</strong> our industry and deliver real value to our users.</p>"
+  "whyUsText": "<p><strong>Our strength</strong> lies in the <strong>diversity</strong> of skills and experiences we bring together:</p><ul><li>Cross-functional collaboration</li><li>Innovative mindset</li><li>Relentless passion</li></ul><p>We are determined to introduce solutions that will <strong>transform</strong> our industry and deliver real value to our users.</p>",
+  "alt": {
+    "becomeArrow": "Arrow indicating membership action"
+  }
 }

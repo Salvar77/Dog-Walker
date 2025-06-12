@@ -55,5 +55,10 @@
       "title": "Bonus Info",
       "content": "<ul><li><strong>Total Supply</strong>: See the current and projected token supply growth in the \"Total Supply\" chart below.</li><li><strong>APY</strong>: The annual reward rate is dynamic and depends on the total amount staked.</li></ul>"
     }
+  },
+  "alt": {
+    "howItWorksArrow": "Arrow pointing to instructions",
+    "dogLock": "Dog with a lock icon representing staking",
+    "claimButton": "Icon for claim rewards button"
   }
 }

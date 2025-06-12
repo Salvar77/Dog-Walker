@@ -24,31 +24,31 @@ const Tokenomics: React.FC = () => {
           {/* pełne tło */}
           <Image
             src={TokenomicsBackground}
-            alt="Grid background behind tokenomics chart"
+            alt={t("alt.chartGrid")}
             className={classes.bg}
             priority
           />
           <Image
             src={TokenomicsBackgroundInside1}
-            alt="Tokenomics chart outer ring"
+            alt={t("alt.outerRing")}
             className={classes.inner1}
             priority
           />
           <Image
             src={TokenomicsBackgroundInside2}
-            alt="Tokenomics chart middle ring"
+            alt={t("alt.middleRing")}
             className={classes.inner2}
             priority
           />
           <Image
             src={TokenomicsBackgroundInside3}
-            alt="Tokenomics chart inner ring"
+            alt={t("alt.innerRing")}
             className={classes.inner3}
             priority
           />
           <Image
             src={TokenomicsBackgroundInside4}
-            alt="Tokenomics chart centre gradient"
+            alt={t("alt.centreGradient")}
             className={classes.inner4}
             priority
           />

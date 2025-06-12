@@ -3,7 +3,6 @@ import React, { useState, useEffect } from "react";
 import { useTranslation } from "next-i18next";
 import Image from "next/image";
 import classes from "./Contact.module.scss";
-
 import ContactBackgroundMain from "@/assets/img/ContactBackgroundMain.png";
 import ContactBackgroundImage1 from "@/assets/img/ContactBackgroundImage1.svg";
 import ContactBackgroundImage2 from "@/assets/img/ContactBackgroundImage2.svg";
@@ -118,7 +117,7 @@ const Contact: React.FC = () => {
               />
             </div>
             <div className={classes.headerImage}>
-              <Image src={ContactFAQImage} alt="FAQ illustration" priority />
+              <Image src={ContactFAQImage} alt={t("alt.faq")} priority />
             </div>
           </div>
 
@@ -149,11 +148,7 @@ const Contact: React.FC = () => {
               <p className={classes.formDescription}>{t("formDescription")}</p>
             </div>
             <div className={classes.formImage}>
-              <Image
-                src={ContactFAQImage2}
-                alt="Support illustration"
-                priority
-              />
+              <Image src={ContactFAQImage2} alt={t("alt.support")} priority />
             </div>
           </div>
           <form className={classes.form} onSubmit={handleSubmit}>
@@ -202,6 +197,7 @@ const Contact: React.FC = () => {
           <Image
             src={ContactRectangle1}
             alt=""
+            aria-hidden="true"
             className={classes.rect1}
             priority
             width={isMobile ? 100 : undefined}
@@ -210,6 +206,7 @@ const Contact: React.FC = () => {
           <Image
             src={ContactRectangle2}
             alt=""
+            aria-hidden="true"
             className={classes.rect2}
             priority
             width={isMobile ? 50 : undefined}
@@ -218,6 +215,7 @@ const Contact: React.FC = () => {
           <Image
             src={ContactRectangle3}
             alt=""
+            aria-hidden="true"
             className={classes.rect3}
             priority
             width={isMobile ? 100 : undefined}
@@ -226,6 +224,7 @@ const Contact: React.FC = () => {
           <Image
             src={ContactRectangle4}
             alt=""
+            aria-hidden="true"
             className={classes.rect4}
             priority
             width={isMobile ? 50 : undefined}

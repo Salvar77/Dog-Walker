@@ -71,7 +71,12 @@ const Teams: React.FC = () => {
           <button className={classes.ctaBtn}>
             {t("becomeMember")}{" "}
             <span className={classes.arrow}>
-              <Image src={PreSaleArrow} alt="" width={7} height={12} />
+              <Image
+                src={PreSaleArrow}
+                alt={t("alt.becomeArrow")}
+                width={7}
+                height={12}
+              />
             </span>
           </button>
         </div>
@@ -129,6 +134,7 @@ const Teams: React.FC = () => {
         <Image
           src={TeamRectangle1}
           alt=""
+          aria-hidden="true"
           className={classes.rectangle1}
           priority
           width={isMobile ? 150 : undefined}
@@ -137,6 +143,7 @@ const Teams: React.FC = () => {
         <Image
           src={TeamRectangle2}
           alt=""
+          aria-hidden="true"
           className={classes.rectangle2}
           priority
           width={isMobile ? 75 : undefined}
@@ -145,6 +152,7 @@ const Teams: React.FC = () => {
         <Image
           src={TeamRectangle3}
           alt=""
+          aria-hidden="true"
           className={classes.rectangle3}
           priority
           width={isMobile ? 100 : undefined}
@@ -153,6 +161,7 @@ const Teams: React.FC = () => {
         <Image
           src={TeamRectangle4}
           alt=""
+          aria-hidden="true"
           className={classes.rectangle4}
           priority
           width={isMobile ? 65 : undefined}

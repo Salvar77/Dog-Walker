@@ -3,5 +3,14 @@
   "subtitle": "As the number of dog owners increases, so does the demand for dog walking services. <strong>DogWalkerToken (DWT)</strong> is an innovative mobile app that connects dog owners with dog walkers, offering them a safe, convenient and efficient solution.",
   "tagline": "Legally, safely, effectively.",
   "ctaPrimary": "Connect Wallet",
-  "ctaSecondary": "Learn more"
+  "ctaSecondary": "Learn more",
+  "alt": {
+    "dogTraces": "Graphic of dog paw traces",
+    "phoneMockup": "Screenshot of DogWalker mobile app on phone",
+    "rocket": "Rocket icon representing launch"
+  },
+  "button": {
+    "dogWalker": "DOG WALKER",
+    "tokenBadge": "$DWT"
+  }
 }

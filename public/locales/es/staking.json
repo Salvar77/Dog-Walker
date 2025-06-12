@@ -55,5 +55,10 @@
       "title": "Bonus Info",
       "content": "<ul><li><strong>Total Supply</strong>: Consulta el crecimiento actual y proyectado de la oferta en el gráfico “Total Supply” a continuación.</li><li><strong>APY</strong>: La tasa anual de recompensas es dinámica y depende de la cantidad total apostada.</li></ul>"
     }
+  },
+  "alt": {
+    "howItWorksArrow": "Flecha que apunta a las instrucciones",
+    "dogLock": "Perro con un ícono de candado que representa el staking",
+    "claimButton": "Ícono para el botón de reclamar recompensas"
   }
 }

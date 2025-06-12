@@ -3,5 +3,8 @@
   "subheading": "Otrzymaj 5% w nagrodach!",
   "inputPlaceholder": "Kliknij „Generuj”, aby utworzyć kod zaproszenia…",
   "copyCTA": "KOPIUJ",
-  "generateCTA": "Generuj"
+  "generateCTA": "Generuj",
+  "alt": {
+    "dogImage": "Ilustracja psa zachęcającego przyjaciela"
+  }
 }

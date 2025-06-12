@@ -29,5 +29,10 @@
     }
   ],
   "appStore": "Descargar en App Store",
-  "googlePlay": "Consíguelo en"
+  "googlePlay": "Consíguelo en",
+  "alt": {
+    "background": "Fondo de mapa mundial con nodos conectados",
+    "phone": "Teléfono móvil mostrando la característica de DogWalker",
+    "phoneHands": "Manos sosteniendo un teléfono móvil"
+  }
 }

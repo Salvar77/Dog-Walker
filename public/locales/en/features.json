@@ -29,5 +29,10 @@
     }
   ],
   "appStore": "Download on the App Store",
-  "googlePlay": "Get it on"
+  "googlePlay": "Get it on",
+  "alt": {
+    "background": "World map background with connected nodes",
+    "phone": "Mobile phone displaying DogWalker feature",
+    "phoneHands": "Hands holding a mobile phone"
+  }
 }

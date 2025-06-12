@@ -15,7 +15,7 @@ const TokenomicsEcosystem: React.FC = () => {
       <div className={classes.bgWrapper}>
         <Image
           src={TokenomicsEcosystemBackground}
-          alt="Background pattern"
+          alt={t("alt.bgPattern")}
           fill
           className={classes.bg}
           priority
@@ -44,7 +44,7 @@ const TokenomicsEcosystem: React.FC = () => {
           <div className={classes.imageWrapper}>
             <Image
               src={TokenomicEcosystemDogImage}
-              alt="Dog with ecosystem icons"
+              alt={t("alt.dogEcosystem")}
               priority
             />
           </div>

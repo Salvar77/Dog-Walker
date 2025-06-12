@@ -34,5 +34,14 @@
       "title": "Balanced centralization",
       "description": "Allows faster development while maintaining sufficient decentralization for everyday applications"
     }
-  ]
+  ],
+  "alt": {
+    "learnMoreArrow": "Arrow indicating learn-more action",
+    "iconLowFees": "Low fees icon",
+    "iconSpeed": "Speed icon",
+    "iconEVM": "EVM compliant icon",
+    "iconCommunity": "Community icon",
+    "iconSecurity": "Security icon",
+    "iconBalance": "Balanced centralization icon"
+  }
 }

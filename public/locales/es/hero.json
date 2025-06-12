@@ -3,5 +3,14 @@
   "subtitle": "A medida que aumenta el número de dueños de perros, también crece la demanda de servicios de paseo. <strong>DogWalkerToken (DWT)</strong> es una innovadora app móvil que conecta a dueños de perros con paseadores, ofreciéndoles una solución segura, cómoda y eficiente.",
   "tagline": "Legalmente, de forma segura, eficazmente.",
   "ctaPrimary": "Conectar cartera",
-  "ctaSecondary": "Más información"
+  "ctaSecondary": "Más información",
+  "alt": {
+    "dogTraces": "Gráfico de huellas de perro",
+    "phoneMockup": "Captura de pantalla de la app DogWalker en un teléfono",
+    "rocket": "Icono de cohete que representa lanzamiento"
+  },
+  "button": {
+    "dogWalker": "PASEADOR",
+    "tokenBadge": "$DWT"
+  }
 }

@@ -58,5 +58,16 @@
       "content": "<p>Si encuentras algún problema durante el proceso de compra, nuestro equipo de soporte técnico está aquí para ayudar:</p><ul><li>Email: <a href=\"mailto:support@inthehouse.io\">support@inthehouse.io</a></li></ul>"
     },
     "close": "Cerrar"
+  },
+  "connectWalletError": "Por favor, conecta primero tu cartera",
+  "alt": {
+    "dogTraces": "Huellas de perro en el fondo",
+    "ellipse": "Elipse decorativa",
+    "ellipseTwo": "Segunda elipse decorativa",
+    "vector": "Elemento vectorial decorativo",
+    "dogLogo": "Logotipo de perro",
+    "arrow": "Flecha de acción",
+    "rocket": "Icono de cohete",
+    "tokenujIcon": "Icono de Tokenuj"
   }
 }

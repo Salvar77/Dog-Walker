@@ -52,10 +52,10 @@ const Tech: React.FC = () => {
 
   return (
     <div className={classes.background}>
-      <div className={classes.bgWrapper}>
+      <div className={classes.bgWrapper} aria-hidden="true">
         <Image
           src={TechBackgroundMain}
-          alt="Background pattern"
+          alt=""
           fill
           className={classes.bg}
           priority
@@ -66,22 +66,29 @@ const Tech: React.FC = () => {
         <Image
           src={TechBackgroundImage1}
           alt=""
+          aria-hidden="true"
           className={classes.bgImage1}
           priority
         />
         <Image
           src={TechBackgroundImage2}
           alt=""
+          aria-hidden="true"
           className={classes.bgImage2}
           priority
         />
 
         <div className={classes.header}>
           <h2 className={classes.title}>{t("title")}</h2>
-          <button className={classes.learnMore}>
+          <button className={classes.learnMore} aria-label={t("learnMore")}>
             {t("learnMore")}
             <span className={classes.arrow}>
-              <Image src={PreSaleArrow} alt="" width={12} height={12} />
+              <Image
+                src={PreSaleArrow}
+                alt={t("alt.learnMoreArrow")}
+                width={12}
+                height={12}
+              />
             </span>
           </button>
         </div>
@@ -117,10 +124,18 @@ const Tech: React.FC = () => {
               className={classes.description}
               dangerouslySetInnerHTML={{ __html: t("bscDescription") }}
             />
-            <button className={classes.learnMoreSmall}>
+            <button
+              className={classes.learnMoreSmall}
+              aria-label={t("learnMore")}
+            >
               {t("learnMore")}
               <span className={classes.arrow}>
-                <Image src={PreSaleArrow} alt="" width={12} height={12} />
+                <Image
+                  src={PreSaleArrow}
+                  alt={t("alt.learnMoreArrow")}
+                  width={12}
+                  height={12}
+                />
               </span>
             </button>
           </div>
@@ -133,7 +148,18 @@ const Tech: React.FC = () => {
               <div className={classes.iconWrapper}>
                 <Image
                   src={icons[i]}
-                  alt={`${r.title} icon`}
+                  alt={t(
+                    `alt.icon${
+                      [
+                        "LowFees",
+                        "Speed",
+                        "EVM",
+                        "Community",
+                        "Security",
+                        "Balance",
+                      ][i]
+                    }`
+                  )}
                   width={32}
                   height={32}
                   className={classes.icon}
@@ -148,6 +174,7 @@ const Tech: React.FC = () => {
         <Image
           src={TechRectangle1}
           alt=""
+          aria-hidden="true"
           className={classes.rect1}
           priority
           width={isMobile ? 75 : undefined}
@@ -156,6 +183,7 @@ const Tech: React.FC = () => {
         <Image
           src={TechRectangle2}
           alt=""
+          aria-hidden="true"
           className={classes.rect2}
           priority
           width={isMobile ? 30 : undefined}
@@ -164,6 +192,7 @@ const Tech: React.FC = () => {
         <Image
           src={TechRectangle3}
           alt=""
+          aria-hidden="true"
           className={classes.rect3}
           priority
           width={isMobile ? 75 : undefined}
@@ -172,6 +201,7 @@ const Tech: React.FC = () => {
         <Image
           src={TechRectangle4}
           alt=""
+          aria-hidden="true"
           className={classes.rect4}
           priority
           width={isMobile ? 30 : undefined}

@@ -65,6 +65,7 @@ const Hero: React.FC = () => {
         <Image
           src={BackgroundPhoneIconHero}
           alt=""
+          aria-hidden="true"
           className={classes.bg1}
           width={isMobile ? 180 : undefined}
           height={isMobile ? 180 : undefined}
@@ -72,16 +73,18 @@ const Hero: React.FC = () => {
         <Image
           src={BackgroundPhoneIconHero3}
           alt=""
+          aria-hidden="true"
           className={classes.bg2}
           width={isMobile ? 180 : undefined}
           height={isMobile ? 180 : undefined}
         />
 
-        <div className={classes.blurCenter}></div>
+        <div className={classes.blurCenter} aria-hidden="true"></div>
 
         <Image
           src={BackgroundPhoneIconHeroRect}
           alt=""
+          aria-hidden="true"
           className={classes.dashed}
           width={isMobile ? 50 : undefined}
           height={isMobile ? 50 : undefined}
@@ -89,6 +92,7 @@ const Hero: React.FC = () => {
         <Image
           src={BackgroundPhoneIconRect}
           alt=""
+          aria-hidden="true"
           className={classes.dotted}
           width={isMobile ? 150 : undefined}
           height={isMobile ? 150 : undefined}
@@ -97,6 +101,7 @@ const Hero: React.FC = () => {
         <Image
           src={Ellipse2}
           alt=""
+          aria-hidden="true"
           className={classes.circle}
           width={isMobile ? 300 : 700}
           height={isMobile ? 300 : 700}
@@ -104,6 +109,7 @@ const Hero: React.FC = () => {
         <Image
           src={Vector2}
           alt=""
+          aria-hidden="true"
           className={classes.vector}
           width={isMobile ? 125 : 215}
           height={isMobile ? 125 : 215}
@@ -111,7 +117,7 @@ const Hero: React.FC = () => {
         <div className={classes.phoneTop}>
           <Image
             src={PhoneIconHero}
-            alt=""
+            alt={t("alt.phoneMockup")}
             width={isMobile ? 400 : 700}
             height={isMobile ? 400 : 700}
           />
@@ -119,14 +125,16 @@ const Hero: React.FC = () => {
 
         <Image
           src={rocketIcon}
-          alt=""
+          alt={t("alt.rocket")}
           className={classes.rocket}
           width={isMobile ? 24 : undefined}
           height={isMobile ? 24 : undefined}
         />
 
-        <button className={classes.dogWalkerBtn}>DOG WALKER</button>
-        <button className={classes.tokenBadge}>$DWT</button>
+        <button className={classes.dogWalkerBtn}>
+          {t("button.dogWalker")}
+        </button>
+        <button className={classes.tokenBadge}>{t("button.tokenBadge")}</button>
       </div>
     </section>
   );

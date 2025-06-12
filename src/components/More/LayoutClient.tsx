@@ -25,7 +25,14 @@ export default function LayoutClient({ children }: { children: ReactNode }) {
     <>
       {" "}
       <div className={styles.ellipseWrapper}>
-        <Image src={Ellipse1} alt="" width={700} height={700} priority />
+        <Image
+          src={Ellipse1}
+          alt=""
+          aria-hidden="true"
+          width={700}
+          height={700}
+          priority
+        />
       </div>
       <BurgerMenu isOpen={isOpen} handleOpen={toggleNav} />
       <Nav isOpen={isOpen} toggleNav={toggleNav} />

@@ -20,5 +20,8 @@
     }
   ],
   "whyUsTitle": "¿Por qué nosotros?",
-  "whyUsText": "<p><strong>Nuestra fuerza</strong> radica en la <strong>diversidad</strong> de habilidades y experiencias que combinamos:</p><ul><li>Colaboración interdisciplinaria</li><li>Enfoque innovador</li><li>Pasión inquebrantable</li></ul><p>Estamos decididos a introducir soluciones que <strong>transformen</strong> nuestra industria y aporten un valor real a nuestros usuarios.</p>"
+  "whyUsText": "<p><strong>Nuestra fuerza</strong> radica en la <strong>diversidad</strong> de habilidades y experiencias que combinamos:</p><ul><li>Colaboración interdisciplinaria</li><li>Enfoque innovador</li><li>Pasión inquebrantable</li></ul><p>Estamos decididos a introducir soluciones que <strong>transformen</strong> nuestra industria y aporten un valor real a nuestros usuarios.</p>",
+  "alt": {
+    "becomeArrow": "Flecha que indica la acción de unirse"
+  }
 }

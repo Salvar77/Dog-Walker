@@ -58,5 +58,16 @@
       "title": "Masz pytania?",
       "content": "<p>Jeśli napotkasz jakiekolwiek problemy podczas procesu zakupu, nasz zespół wsparcia technicznego jest do Twojej dyspozycji:</p><ul><li>Email: <a href=\"mailto:support@inthehouse.io\">support@inthehouse.io</a></li></ul>"
     }
+  },
+  "connectWalletError": "Najpierw połącz portfel",
+  "alt": {
+    "dogTraces": "Ślady psa w tle",
+    "ellipse": "Dekoracyjna elipsa",
+    "ellipseTwo": "Druga elipsa",
+    "vector": "Dekoracyjny wektor",
+    "dogLogo": "Logo psa",
+    "arrow": "Strzałka akcji",
+    "rocket": "Ikona rakiety",
+    "tokenujIcon": "Ikona Tokenuj"
   }
 }

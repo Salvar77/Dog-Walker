@@ -29,5 +29,10 @@
     }
   ],
   "appStore": "Pobierz z App Store",
-  "googlePlay": "Pobierz z"
+  "googlePlay": "Pobierz z",
+  "alt": {
+    "background": "Tło z mapą świata i połączonymi węzłami",
+    "phone": "Telefon pokazujący funkcję DogWalker",
+    "phoneHands": "Ręce trzymające telefon komórkowy"
+  }
 }

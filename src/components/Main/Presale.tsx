@@ -215,13 +215,13 @@ const Presale = ({
           >
             {t("howToBuy")}
             <span className={classes.arrow}>
-              <Image src={PreSaleArrow} alt="pre-sale arrow" width={7} />
+              <Image src={PreSaleArrow} alt={t("alt.arrow")} width={7} />
             </span>
           </button>
         </div>
         <Image
           src={PresaleDogTraces}
-          alt="Ślady psa w tle sekcji Pre-sale"
+          alt={t("alt.dogTraces")}
           className={classes.dogTraces}
           width={isMobile ? 100 : undefined}
           height={isMobile ? 100 : undefined}
@@ -229,7 +229,8 @@ const Presale = ({
 
         <Image
           src={PreSaleRectangleRight}
-          alt="Dekoracyjny prostokąt po prawej stronie"
+          alt=""
+          aria-hidden="true"
           className={classes.rectangle}
           width={isMobile ? 75 : undefined}
           height={isMobile ? 75 : undefined}
@@ -237,7 +238,8 @@ const Presale = ({
 
         <Image
           src={PreSaleRectangleRightTwo}
-          alt="Drugi dekoracyjny prostokąt po prawej stronie"
+          alt=""
+          aria-hidden="true"
           className={classes.rectangleSecond}
           width={isMobile ? 100 : undefined}
           height={isMobile ? 100 : undefined}
@@ -245,13 +247,13 @@ const Presale = ({
 
         <Image
           src={Ellipse}
-          alt="Dekoracyjna elipsa"
+          alt={t("alt.ellipse")}
           className={classes.ellipse}
         />
 
         <Image
           src={Ellipse2}
-          alt="Druga dekoracyjna elipsa"
+          alt={t("alt.ellipseTwo")}
           className={classes.ellipseTwo}
         />
 
@@ -267,12 +269,12 @@ const Presale = ({
               </span>
               <Image
                 src={Vector}
-                alt="Dekoracyjny element wektorowy w tle sekcji Presale"
+                alt={t("alt.vector")}
                 className={classes.vector}
               />
               <Image
                 src={PresaleDogLogo}
-                alt="Logo psa w sekcji Presale"
+                alt={t("alt.dogLogo")}
                 className={classes.dogLogo}
               />
             </div>
@@ -323,7 +325,7 @@ const Presale = ({
                 ))}
               </div>
               <small className={classes.until}>
-                <Image src={RocketIcon} alt="" />
+                <Image src={RocketIcon} alt={t("alt.rocket")} />
                 {t("until")}
               </small>
             </div>
@@ -352,7 +354,7 @@ const Presale = ({
               <button type="button" className={classes.poweredStrong}>
                 <Image
                   src={TokenIcon}
-                  alt="Ikona Tokenu"
+                  alt={t("alt.tokenujIcon")}
                   width={isMobile ? 24 : undefined}
                   height={isMobile ? 24 : undefined}
                 />

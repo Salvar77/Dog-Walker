@@ -1,4 +1,11 @@
 {
   "heading": "Tokenomia",
-  "subheading": "Aktualna dystrybucja tokenów DogWalker"
+  "subheading": "Aktualna dystrybucja tokenów DogWalker",
+  "alt": {
+    "chartGrid": "Siatkowe tło za wykresem tokenomiki",
+    "outerRing": "Zewnętrzny pierścień wykresu pokazujący segment dystrybucji",
+    "middleRing": "Środkowy pierścień wykresu pokazujący segment dystrybucji",
+    "innerRing": "Wewnętrzny pierścień wykresu pokazujący segment dystrybucji",
+    "centreGradient": "Centralny gradient nakładki wykresu tokenomiki"
+  }
 }

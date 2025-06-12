@@ -76,5 +76,8 @@
       ],
       "goal": "Create solid foundations for concept and tokenization"
     }
-  ]
+  ],
+  "alt": {
+    "learnMoreArrow": "Arrow pointing to more details"
+  }
 }

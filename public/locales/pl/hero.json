@@ -3,5 +3,14 @@
   "subtitle": "Wraz ze wzrostem liczby właścicieli psów rośnie popyt na usługi wyprowadzania. <strong>DogWalkerToken (DWT)</strong> to innowacyjna aplikacja mobilna, która łączy właścicieli psów z wyprowadzaczami, oferując bezpieczne, wygodne i efektywne rozwiązanie.",
   "tagline": "Legalnie, bezpiecznie, skutecznie.",
   "ctaPrimary": "Podłącz portfel",
-  "ctaSecondary": "Dowiedz się więcej"
+  "ctaSecondary": "Dowiedz się więcej",
+  "alt": {
+    "dogTraces": "Grafika ze śladami łap psa",
+    "phoneMockup": "Zrzut ekranu aplikacji DogWalker na telefonie",
+    "rocket": "Ikona rakiety symbolizująca start"
+  },
+  "button": {
+    "dogWalker": "DOG WALKER",
+    "tokenBadge": "$DWT"
+  }
 }

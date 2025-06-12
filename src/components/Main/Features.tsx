@@ -36,7 +36,7 @@ const Features = () => {
       <div className={classes.bgWrapper}>
         <Image
           src={FeaturesBackground}
-          alt=""
+          alt={t("alt.background")}
           className={classes.bg}
           width={isMobile ? 500 : 1000}
           height={isMobile ? 500 : 1000}
@@ -71,7 +71,7 @@ const Features = () => {
         <div className={classes.features__boxTwo}>
           <Image
             src={FeaturesPhoneImage}
-            alt="Phone Icon"
+            alt={t("alt.phone")}
             className={classes.phone}
           />
           <div className={classes.featureText}>
@@ -86,22 +86,24 @@ const Features = () => {
                   href="https://apps.apple.com/app/idXXXXXXXXX"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label={t("appStore")}
                 >
-                  <Image src={FeaturesAppStoreIcon} alt="App Store" />
+                  <Image src={FeaturesAppStoreIcon} alt={t("appStore")} />
                 </Link>
                 <Link
                   href="https://play.google.com/store/apps/details?id=XXXXXXXXX"
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label={t("googlePlay")}
                 >
-                  <Image src={FeaturesGooglePlayIcon} alt="Google Play" />
+                  <Image src={FeaturesGooglePlayIcon} alt={t("googlePlay")} />
                 </Link>
               </div>
             </div>
           </div>
           <Image
             src={FeaturesPhoneHandsImage}
-            alt="Phone Hands"
+            alt={t("alt.phoneHands")}
             className={classes.phoneHands}
           />
         </div>
@@ -110,6 +112,7 @@ const Features = () => {
       <Image
         src={FeaturesEllipse1}
         alt=""
+        aria-hidden="true"
         className={classes.ellipse1}
         width={isMobile ? 300 : 550}
         height={isMobile ? 300 : 550}
@@ -117,6 +120,7 @@ const Features = () => {
       <Image
         src={FeaturesEllipse2}
         alt=""
+        aria-hidden="true"
         className={classes.ellipse2}
         width={isMobile ? 300 : 450}
         height={isMobile ? 300 : 450}

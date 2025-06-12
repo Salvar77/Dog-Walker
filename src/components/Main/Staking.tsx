@@ -363,35 +363,44 @@ const Staking = ({
           <button
             className={classes.howItWorks}
             onClick={() => setShowStakeInfo(true)}
+            aria-label={t("howItWorks")}
           >
             {t("howItWorks")}
             <span className={classes.arrow}>
-              <Image src={PreSaleArrow} alt="" width={7} />
+              <Image
+                src={PreSaleArrow}
+                alt={t("alt.howItWorksArrow")}
+                width={7}
+              />
             </span>
           </button>
         </div>
 
         <Image
           src={StakingRectangleSmall}
-          alt="Mały dekoracyjny prostokąt w tle sekcji staking"
+          alt=""
+          aria-hidden="true"
           className={classes.rectangle}
         />
 
         <Image
           src={StakingRectangleBig}
-          alt="Duży dekoracyjny prostokąt w tle sekcji staking"
+          alt=""
+          aria-hidden="true"
           className={classes.rectangleSecond}
         />
 
         <Image
           src={Ellipse}
-          alt="Dekoracyjna elipsa"
+          alt=""
+          aria-hidden="true"
           className={classes.ellipse}
         />
 
         <Image
           src={Ellipse2}
-          alt="Druga dekoracyjna elipsa"
+          alt=""
+          aria-hidden="true"
           className={classes.ellipseTwo}
         />
 
@@ -507,7 +516,7 @@ const Staking = ({
                   <>
                     <Image
                       src={StakingClaimRewardsButton}
-                      alt="Reward button"
+                      alt={t("alt.claimButton")}
                       width={30}
                     />
                     {t("claimRewardsCTA")}
@@ -531,7 +540,7 @@ const Staking = ({
           <div className={classes.staking__dogLock}>
             <Image
               src={StakingDogLockImage}
-              alt="Ikona psa z kłódką symbolizująca staking"
+              alt={t("alt.dogLock")}
               width={isMobile ? 200 : undefined}
               height={isMobile ? 200 : undefined}
             />

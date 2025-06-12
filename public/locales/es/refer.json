@@ -3,5 +3,8 @@
   "subheading": "¡Obtén un 5% de recompensas!",
   "inputPlaceholder": "Haz clic en Generar para crear un código de invitación…",
   "copyCTA": "COPIAR",
-  "generateCTA": "Generar"
+  "generateCTA": "Generar",
+  "alt": {
+    "dogImage": "Ilustración de un perro invitando a un amigo"
+  }
 }

@@ -46,5 +46,9 @@
   "emailPlaceholder": "E-mail address…",
   "subjectPlaceholder": "Subject…",
   "messagePlaceholder": "Type a message…",
-  "submitCTA": "Submit"
+  "submitCTA": "Submit",
+  "alt": {
+    "faq": "Illustration of FAQ",
+    "support": "Illustration of customer support"
+  }
 }

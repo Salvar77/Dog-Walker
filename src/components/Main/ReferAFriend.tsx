@@ -11,41 +11,40 @@ const ReferAFriend = ({ referAddres }: any) => {
   const { t } = useTranslation("refer");
   const [url, setUrl] = useState("");
   const { address } = useAccount();
-const [copied, setCopied] = useState(false);
+  const [copied, setCopied] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const [generateAddress, setGenerateAddress] = useState("");
   const handleGenerate = async () => {
     setGenerateAddress(`${url}?referr-address=${address}`);
   };
-  
 
-const copyToClipboard = (text: string) => {
-  const textarea = document.createElement("textarea");
-  textarea.value = text;
-  textarea.setAttribute("readonly", "");
-  textarea.style.position = "absolute";
-  textarea.style.left = "-9999px";
-  document.body.appendChild(textarea);
-  textarea.select();
-  document.execCommand("copy");
-  document.body.removeChild(textarea);
-};
+  const copyToClipboard = (text: string) => {
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "absolute";
+    textarea.style.left = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    document.body.removeChild(textarea);
+  };
 
-const handleCopy = () => {
-  if (!generateAddress) return;
-  try {
-    copyToClipboard(generateAddress);
-    setCopied(true);
-    setTimeout(() => setCopied(false), 1000);
-  } catch (err) {
-    console.error("Fallback copy failed:", err);
-  }
-};
+  const handleCopy = () => {
+    if (!generateAddress) return;
+    try {
+      copyToClipboard(generateAddress);
+      setCopied(true);
+      setTimeout(() => setCopied(false), 1000);
+    } catch (err) {
+      console.error("Fallback copy failed:", err);
+    }
+  };
   useEffect(() => {
     if (typeof window !== "undefined") {
       const { protocol, host } = window.location;
       console.log("protocol", protocol);
-      
+
       setUrl(`${protocol}//${host}`);
     }
   }, []);
@@ -69,7 +68,7 @@ const handleCopy = () => {
             <div className={classes.dogWrapper}>
               <Image
                 src={ReferAFriendDogImage}
-                alt=""
+                alt={t("alt.dogImage")}
                 className={classes.image}
                 priority
               />
@@ -90,7 +89,7 @@ const handleCopy = () => {
                 onClick={handleCopy}
                 disabled={!generateAddress}
               >
-               {copied ? t("copiedText") : t("copyCTA")}
+                {copied ? t("copiedText") : t("copyCTA")}
               </button>
             </div>
             {referAddres > 0 && (
@@ -104,6 +103,7 @@ const handleCopy = () => {
         <Image
           src={ReferAFriendRectangle1}
           alt=""
+          aria-hidden="true"
           className={classes.rectangle}
           priority
           width={isMobile ? 100 : undefined}
@@ -112,6 +112,7 @@ const handleCopy = () => {
         <Image
           src={ReferAFriendRectangle2}
           alt=""
+          aria-hidden="true"
           className={classes.rectangleTwo}
           priority
           width={isMobile ? 70 : undefined}
