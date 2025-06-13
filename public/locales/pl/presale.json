@@ -23,20 +23,20 @@
     "close": "Zamknij",
     "count": 9,
     "1": {
-      "title": "Jak kupić tokeny $ITH na InTheHouse.io?",
-      "content": "Kupno tokenów $ITH na platformie InTheHouse.io jest szybkie i proste. Wystarczy podążać za poniższymi krokami, aby zostać posiadaczem tokenów i wspierać naszą wizję nowoczesnych, opartych na Web3 usług domowych."
+      "title": "Jak kupić tokeny DogWalker na InTheHouse.io?",
+      "content": "Kupno tokenów DogWalker na platformie InTheHouse.io jest szybkie i proste. Wystarczy podążać za poniższymi krokami, aby zostać posiadaczem tokenów i wspierać naszą wizję nowoczesnych, opartych na Web3 usług domowych."
     },
     "2": {
       "title": "Krok 1: Podłącz portfel",
       "content": "<p>Na stronie głównej InTheHouse.io kliknij przycisk „Connect Wallet” w prawym górnym rogu. Wybierz portfel kompatybilny z BNB Smart Chain, np. MetaMask, Trust Wallet lub inny wspierany portfel. Postępuj zgodnie z instrukcjami w aplikacji portfela, aby połączyć się z platformą.</p><p><strong>Uwaga:</strong> Aby dokonać zakupu, w portfelu musisz mieć:</p><ul><li>Stablecoiny USDT lub USDC w ilości odpowiadającej planowanemu zakupowi.</li><li>Minimalną ilość BNB na opłatę transakcyjną (zalecane min. 0,20 USD w BNB).</li></ul>"
     },
     "3": {
-      "title": "Krok 2: Zaimportuj token $ITH",
-      "content": "<p>Aby zobaczyć zakupione tokeny $ITH, musisz je ręcznie zaimportować do portfela. Użyj poniższego adresu kontraktu smart:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>W portfelu wybierz „Import Tokens”, wklej powyższy adres i potwierdź. Token $ITH pojawi się w Twoim portfelu.</p>"
+      "title": "Krok 2: Zaimportuj token DogWalker",
+      "content": "<p>Aby zobaczyć zakupione tokeny DogWalker, musisz je ręcznie zaimportować do portfela. Użyj poniższego adresu kontraktu smart:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>W portfelu wybierz „Import Tokens”, wklej powyższy adres i potwierdź. Token DogWalker pojawi się w Twoim portfelu.</p>"
     },
     "4": {
-      "title": "Krok 3: Wybierz ilość tokenów $ITH",
-      "content": "<p>Przejdź do sekcji „Buy $ITH Tokens” na stronie głównej lub w menu nawigacyjnym. Wprowadź kwotę w USD, którą chcesz wydać (minimalnie $5). System automatycznie obliczy liczbę tokenów w cenie $0,00025 za 1 $ITH (np. za $5 otrzymasz 20 000 $ITH).</p>"
+      "title": "Krok 3: Wybierz ilość tokenów DogWalker",
+      "content": "<p>Przejdź do sekcji „Buy DogWalker Tokens” na stronie głównej lub w menu nawigacyjnym. Wprowadź kwotę w USD, którą chcesz wydać (minimalnie $5). System automatycznie obliczy liczbę tokenów w cenie $0,00025 za 1 DogWalker (np. za $5 otrzymasz 20 000 DogWalker).</p>"
     },
     "5": {
       "title": "Krok 4: Wybierz metodę płatności",
@@ -44,15 +44,15 @@
     },
     "6": {
       "title": "Krok 5: Finalizuj transakcję",
-      "content": "<p>Po kliknięciu przycisku „Buy” system wyświetli szczegóły transakcji. Zweryfikuj informacje i potwierdź zakup. Twój portfel poprosi o zatwierdzenie transakcji oraz opłacenie minimalnej prowizji gas w sieci BNB Smart Chain. Po zakończeniu procesu tokeny $ITH zostaną automatycznie przelane do Twojego portfela.</p>"
+      "content": "<p>Po kliknięciu przycisku „Buy” system wyświetli szczegóły transakcji. Zweryfikuj informacje i potwierdź zakup. Twój portfel poprosi o zatwierdzenie transakcji oraz opłacenie minimalnej prowizji gas w sieci BNB Smart Chain. Po zakończeniu procesu tokeny DogWalker zostaną automatycznie przelane do Twojego portfela.</p>"
     },
     "7": {
       "title": "Krok 6: Sprawdź swoje tokeny",
-      "content": "<p>Po zakończeniu transakcji możesz sprawdzić swoje saldo $ITH w sekcji „Your Wallet” na InTheHouse.io. Upewnij się, że token został poprawnie zaimportowany przy użyciu adresu:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>Jeśli nie widzisz tokenów, sprawdź ponownie proces importu.</p>"
+      "content": "<p>Po zakończeniu transakcji możesz sprawdzić swoje saldo DogWalker w sekcji „Your Wallet” na InTheHouse.io. Upewnij się, że token został poprawnie zaimportowany przy użyciu adresu:</p><pre>0xee09fC58439F3BD514dD5cFB33e383E4788ECCa</pre><p>Jeśli nie widzisz tokenów, sprawdź ponownie proces importu.</p>"
     },
     "8": {
       "title": "Ważne informacje",
-      "content": "<ul><li>Minimalna wartość transakcji: $5.</li><li>Opłata gas: minimalna ilość BNB na pokrycie kosztów transakcji to $0,20.</li><li>Akceptowane stablecoiny: USDT, USDC.</li><li>Cena tokena: $0,00025 za 1 $ITH.</li></ul>"
+      "content": "<ul><li>Minimalna wartość transakcji: $5.</li><li>Opłata gas: minimalna ilość BNB na pokrycie kosztów transakcji to $0,20.</li><li>Akceptowane stablecoiny: USDT, USDC.</li><li>Cena tokena: $0,00025 za 1 DogWalker.</li></ul>"
     },
     "9": {
       "title": "Masz pytania?",

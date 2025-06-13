@@ -12,6 +12,7 @@ import Teams from "@/components/Main/Teams";
 import Tech from "@/components/Main/Tech";
 import Tokenomics from "@/components/Main/Tokenomics";
 import TokenomicsEcosystem from "@/components/Main/TokenomicsEcosystem";
+import SEO from "@/components/More/SEO";
 import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import { useState } from "react";
 
@@ -47,6 +48,14 @@ export default function Home() {
   const [userSpendUsdc, setUserSpendUsdc] = useState("");
   return (
     <div>
+      <SEO
+        title="DogWalker – Rewolucja w wyprowadzaniu psów"
+        description="DogWalkerToken (DWT) to innowacyjna aplikacja łącząca właścicieli psów z wyprowadzającymi. Bezpieczne, wygodne i efektywne rozwiązanie dla każdego."
+        url="https://dog-walker.io"
+        image="https://dog-walker.io/DogWalkerLogo.jpg"
+        isHome
+        isApp
+      />
       <div className="container">
         <Hero />
       </div>
